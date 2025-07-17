@@ -11,6 +11,7 @@ A simple Rock–Paper–Scissors game built with HTML, CSS, and JavaScript.
 
 ## Demo
 Try it live
+https://supri-boop.github.io/rock-paper-scissors/
 
 ## How to Use
 1. Click to choose Rock, Paper, or Scissors.
